@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id":1,
+      "name":"Cyabonga Ndlovu",
+      "email":"mvumos@gmail.com",
+      "phone":"1-715-736-8031"
+    }
+  ],
+  "booking": [
+    {
+      "listingId": "1",
+      "startDate":"2024-05-10",
+      "endDate":"2024-05-15",
+      "userId":"1"
+    }
+  ],
+  "Listings": [
+    {
+      "id":1,
+      "img":"https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=72",
+      "title":"Online Experience",
+      "description":"Unique activities we can do together, led by a world of hosts",
+      "bath_num":3,
+      "bed_num":4,
+      "zip":23456,
+      "address":"siyab street",
+      "city":"soweto",
+      "street":"johannesburg",
+      "price":2100,
+      "sq_ft":4.3,
+      "email":"tesing@gmail.com",
+      "userId":2
+    },
+    {
+      "id":2,
+      "img":"https://media.nomadicmatt.com/2018/apartment.jpg",
+      "title":"3 Bedroom Flat in CapeTown",
+      "description":"SuperHost with a stunning  view of the beachside in Capetown",
+      "bath_num":3,
+      "bed_num":4,
+      "zip":23456,
+      "address":"siyab street",
+      "city":"soweto",
+      "street":"johannesburg",
+      "price":"R110/night",
+      "sq_ft":4.3,
+      "email":"tesing@gmail.com",
+      "userId":2
+    }
+  ]
+}
